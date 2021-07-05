@@ -5,7 +5,7 @@ I like to consider myself a jack of all trades but currenty I'm mostly a Data En
 
 I enjoy gaming, sports, cooking and doing techy stuff :robot:
 
-I'm a Data Engineer at [![farfetch](https://img.shields.io/static/v1?style=plastic&message=farfetch&color=000000&logo=farfetch&logoColor=FFFFFF&label=&url=)](https://www.farfetch.com/) where I shepherd data all day long :farmer:
+I'm a Data Engineer at [![farfetch](https://img.shields.io/static/v1?style=plastic&message=farfetch&color=000000&logo=farfetch&logoColor=FFFFFF&label=&url=)](https://www.farfetch.com/) where I shepherd data all day long :man_farmer:
 
 Look me up :bowtie:
 
